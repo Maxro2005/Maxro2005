@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I'm Max!
 
-<!--
-**Maxro2005/Maxro2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- I am currently a third semester RVCC student
+- Majors:
+  - Math
+  - Computer Science
+  - IT
+- Working at the RVCC Help Desk
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Info
+- Email: maxro2005@icloud.com
+- Phone: (908) 878-3984
